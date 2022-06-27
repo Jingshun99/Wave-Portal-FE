@@ -6,4 +6,5 @@ The frontend UI of the portal was built using [React](https://reactjs.org/) and 
 
 Backend code URL: https://github.com/Jingshun99/Wave-Portal-BE
 
-![image](https://user-images.githubusercontent.com/63948056/175878970-9955de31-9b35-47dd-913d-ca2931ed8c41.png)
+![image](https://user-images.githubusercontent.com/63948056/175879141-4b93c7d4-946c-43ed-8d58-441881cc4c29.png)
+
