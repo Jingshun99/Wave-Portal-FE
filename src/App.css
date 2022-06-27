@@ -1,0 +1,55 @@
+.mainContainer {
+  display: flex;
+  color: purple;
+  justify-content: center;
+  width: 100%;
+  margin-top: 64px;
+}
+
+.dataContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 600px;
+}
+
+.header {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.bio {
+  text-align: center;
+  color: green;
+  font-weight:bold;
+  margin-top: 16px;
+  margin-bottom:16px;
+}
+
+.count {
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-bottom:30px;
+}
+
+.waveButton {
+  background: red;
+  color: yellow;
+  cursor: pointer;
+  margin-top: 16px;
+  padding: 8px;
+  border: 0;
+  border-radius: 5px;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top:100px;
+}
